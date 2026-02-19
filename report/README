@@ -1,0 +1,22 @@
+👨‍🎓 4️⃣ STATUS OTOMATIS SP
+
+Kita buat aturan:
+
+< 50 = Aman
+
+≥ 50 = SP1
+
+≥ 75 = SP2
+
+≥ 100 = SP3
+
+-----
+
+🖨 6️⃣ PRINT PDF DENGAN KOP SEKOLAH + LOGO
+
+Gunakan FPDF
+
+📥 Download dari:
+👉 http://www.fpdf.org
+
+Taruh di folder fpdf/
