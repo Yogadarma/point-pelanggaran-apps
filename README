@@ -1,0 +1,32 @@
+point-pelanggaran/
+│
+├── config/
+│     koneksi.php
+│
+├── login.php
+├── logout.php
+├── index.php
+│
+├── siswa/
+│     index.php
+│     tambah.php
+│     simpan.php
+│
+├── jenis/
+│     index.php
+│     tambah.php
+│     simpan.php
+│
+├── pelanggaran/
+│     tambah.php
+│     simpan.php
+│
+├── report/
+│     laporan.php
+│     print_pdf.php
+│
+├── assets/
+│     logo.png
+│
+└── fpdf/
+      fpdf.php
